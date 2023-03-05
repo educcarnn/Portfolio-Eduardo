@@ -4,7 +4,7 @@ import Typewriter from "typewriter-effect";
 
 function SobreMim() {
   return (
-    <ContentDiv id='sobremim'>
+    <ContentDiv id="sobremim">
       <div className="introduct">
         <Typewriter
           onInit={(typewriter) => {
@@ -24,12 +24,14 @@ function SobreMim() {
       <div class="aboutToMe">
         <img src={Perfil} alt={Perfil} className="imgToMe" />
         <div>
-          Gestão da Tecnologia da Informação na Universidade Estacio de Sá e
-          formado em desenvolvimento web Front - End pela Kenzie Academy. Gosto
-          do mercado de programação, pelos avanços proporcionados por ela,
-          fazendo com que tenhamos, melhor qualidade de vida como um todo e
-          facilitar tarefas diárias, que custariam muito tempo e esforço para
-          serem feitas, por isso tenho interesse em trabalhar com tecnologia.
+          Atualmente, estou cursando Gestão da Tecnologia da Informação na
+          Universidade Estácio de Sá e tenho formação em Desenvolvimento Web
+          Front-End pela Kenzie Academy. Sou apaixonado pelo mercado de
+          programação, pois acredito que as soluções tecnológicas avançadas
+          podem nos proporcionar uma melhor qualidade de vida e simplificar
+          tarefas diárias que antes exigiam muito tempo e esforço. Tenho grande
+          interesse em trabalhar com tecnologia e contribuir para a criação de
+          projetos inovadores e impactantes.
         </div>
       </div>
     </ContentDiv>

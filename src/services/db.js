@@ -2,7 +2,7 @@ const header = {
   homepage: "https://rajshekhar26.github.io/cleanfolio",
   title: "JS.",
 };
-//
+
 /*
 const about = {
   name: "Eduardo Carneiro",

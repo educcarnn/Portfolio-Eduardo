@@ -18,7 +18,7 @@ export const ContentDiv = styled.div`
   }
   .imgToMe {
     width: 10rem;
-    border-radius: 10rem;
+    border-radius: 100%;
     margin-bottom: 2rem;
   }
   .introduct{
