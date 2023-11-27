@@ -9,7 +9,7 @@ function SobreMim() {
         <Typewriter
           onInit={(typewriter) => {
             typewriter
-              .typeString("Olá mundo")
+              .typeString("Olá")
               .pauseFor(1000)
               .start()
               .typeString(", meu nome é Eduardo")
@@ -19,7 +19,7 @@ function SobreMim() {
         />
 
         <div className="TextIntroduct">DESENVOLVEDOR</div>
-        <div>Front-end com foco no ecossistema do JavaScript</div>
+        <div>Full Stack (JS, Python, PHP, Java)</div>
       </div>
       <div class="aboutToMe">
         <img src={Perfil} alt={Perfil} className="imgToMe" />

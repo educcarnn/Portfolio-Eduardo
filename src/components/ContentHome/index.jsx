@@ -3,8 +3,6 @@ import { ContentDiv } from "./style";
 import Typewriter from 'typewriter-effect';
 
 
-
-
 function ContentHome() {
   
   return (
@@ -22,7 +20,7 @@ function ContentHome() {
               }}
             />
         <div className='TextIntroduct'>DESENVOLVEDOR</div>
-        <div>Web Front-end com foco no ecossistema do JavaScript</div>
+        <div>Full Stack (Java, Python, Javascript, PHP)</div>
       </div>
       <div class="aboutToMe">
         <img src={Perfil} alt={Perfil} className="imgToMe"/>

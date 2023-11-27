@@ -3,24 +3,10 @@ const header = {
   title: "JS.",
 };
 
-/*
-const about = {
-  name: "Eduardo Carneiro",
-  role: "Front End Engineer",
-  description:
-    "Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.",
-  resume: "https://example.com",
-  social: {
-    linkedin: "https://linkedin.com",
-    github: "https://github.com",
-  },
-};
-*/
-
 
 const projectos = [
   {
-    name: "CodeFood",
+    name: "Cost Captor",
     description:
       "E-Commerce feito com possibilidade de comprar/remover variados itens do seu carrinho e com capacidade de adicionar novos itens, caso registrado",
     stack: [
@@ -36,7 +22,7 @@ const projectos = [
     livePreview: "https://code-food.vercel.app/",
   },
   {
-    name: "iFlix",
+    name: "PlayBooks",
     description:
       "Estilização layout plataforma de streaming com conceitos de Mobile First (CSS) e HTML ",
     stack: ["HTML", "CSS(Mobile First)"],
