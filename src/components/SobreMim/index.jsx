@@ -19,7 +19,9 @@ function SobreMim() {
         />
 
         <div className="TextIntroduct">DESENVOLVEDOR</div>
-        <div>Full Stack (JS, Python, PHP, Java)</div>
+        <div>
+          <p>Full Stack (Js, Java, PHP/Laravel, Python) </p>
+        </div>
       </div>
       <div class="aboutToMe">
         <img src={Perfil} alt={Perfil} className="imgToMe" />

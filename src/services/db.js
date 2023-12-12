@@ -1,74 +1,70 @@
 const header = {
-  homepage: "https://rajshekhar26.github.io/cleanfolio",
+  homepage: "https://portfolion-3nzrny4si-educcarnn.vercel.app",
   title: "JS.",
 };
 
-
 const projectos = [
   {
-    name: "Cost Captor",
+    name: "Cost Captor - Front End",
     description:
-      "E-Commerce feito com possibilidade de comprar/remover variados itens do seu carrinho e com capacidade de adicionar novos itens, caso registrado",
-    stack: [
-      "HTML",
-      "CSS",
-      "POO(JavaScript)",
-      "DOM",
-      "API REST",
-      "SCRUM",
-      "KANBAN",
-    ],
+      "Plataforma que gerencia os gastos, e calcula o seu lucro de acordo com as entradas e saídas",
+    stack: ["React JS", "CSS", "React Router Dom", "Yarn"],
     sourceCode: "https://github.com/educcarnn/CodeFood",
-    livePreview: "https://code-food.vercel.app/",
+    livePreview: "https://costcaptor.vercel.app/",
   },
   {
-    name: "PlayBooks",
+    name: "PlayBooks - Front End integrado ao Back End",
     description:
-      "Estilização layout plataforma de streaming com conceitos de Mobile First (CSS) e HTML ",
-    stack: ["HTML", "CSS(Mobile First)"],
-    sourceCode: "https://github.com/educcarnn/plataforma-streaming",
-    livePreview: "https://educcarnn.github.io/plataforma-streaming/",
+      "Plataforma com foco em leitura, para aprimorar seus conhecimentos e criar hábitos de leitura",
+    stack: [
+      "React JS",
+      "TypeScript",
+      "Styled Components",
+      "Context",
+      "API Rest",
+      "React Router Dom",
+      "Yarn",
+    ],
+    sourceCode: "https://github.com/educcarnn/PlayBooks",
+    livePreview: "https://playbooks-eight.vercel.app/",
   },
   {
-    name: "Formulário",
+    name: "YouHUB - Front end integrado ao Back End",
     description:
       "Plataforma com possibilidade de registrar pessoas e filtrar através de seus respectivos cargos",
-    stack: ["HTML", "CSS", "POO(JavaScript)", "DOM"],
-    sourceCode: "https://github.com/educcarnn/cadastro-pessoas",
-    livePreview: "https://cadastro-pessoas.vercel.app/",
-  },
-  {
-    name: "Números aleatórios",
-    description:
-      "Projeto simples utilizando do ecossistema do React, para gerar números aleatórios ao pressionar o botão",
-    stack: ["React(Hooks)", "CSS"],
-    sourceCode:
-      "https://github.com/educcarnn/numeros-aleatorios-react/tree/main/numbers",
-    livePreview: "https://numbers-three.vercel.app/",
-  },
-  {
-    name: "Kenzie Hub",
-    description:
-      "Plataforma que é possivel gerenciar as tecnologias que você vem aprendendo durante a sua jornada como desenvolvedor",
     stack: [
-      "React(Hooks)",
+      "React JS",
       "Styled Components",
-      "YUP/REACT FORM",
-      "Axios",
-      "API REST",
+      "Api Rest",
+      "Yup/ReactForm",
+      "React Router Dom",
+      "Yarn",
     ],
-    sourceCode: "https://github.com/educcarnn/kenziehub-react",
-    livePreview:
-      "https://react-entrega-s2-kenzie-hub-educcarnn-educcarnn.vercel.app/",
+    sourceCode: "https://github.com/educcarnn/YouHUB",
+    livePreview: "https://youhub-mu.vercel.app/",
   },
   {
-    name: "Shop Redux",
+    name: "LumeNext - Front end integrado ao Back End",
     description:
-      "Loja de compras com uso de Redux, com interações e reações para o usuário",
-    stack: ["React(Hooks)", "Styled Components", "Redux"],
-    sourceCode: "https://github.com/educcarnn/kenziehub-react",
-    livePreview:
-      "https://react-entrega-s2-kenzie-hub-educcarnn-educcarnn.vercel.app/",
+      "Projeto com interações do usuário para mostrar informações pertinentes de acordo com sua geolocalização",
+    stack: ["NextJs", "TypeScript", "Tailwind CSS", "Npm"],
+    sourceCode:
+      "https://github.com/educcarnn/LumeNext",
+    livePreview: "https://lume-next-oq5jfpa8p-educcarnn.vercel.app/",
+  },
+  {
+    name: "Lista de Compras Node - Back End",
+    description:
+      "Crud de produtos, em que o usuário pode criar produtos, recuperar produtos, editar ou deletar ",
+    stack: ["NodeJs", "Express", "TypeScript", "SQL", "API Rest", "Yarn"],
+    sourceCode: "https://github.com/educcarnn/ListaDeCompras-Node",
+  },
+  {
+    name: "UniSocial - Full Stack Laravel com React",
+    description:
+      "Rede Social com rolagem infinita, podendo upar imagens, deletar ou editar seus comentários",
+    stack: ["Laravel/PHP", "React", "Boostrap", "MySQL", "API Rest", "Yarn"],
+    sourceCode: "https://github.com/educcarnn/UniSocial",
   },
 ];
 
