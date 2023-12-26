@@ -26,14 +26,16 @@ function SobreMim() {
       <div class="aboutToMe">
         <img src={Perfil} alt={Perfil} className="imgToMe" />
         <div>
-          Atualmente, estou cursando Gestão da Tecnologia da Informação na
-          Universidade Estácio de Sá e tenho formação em Desenvolvimento Web
-          Front-End pela Kenzie Academy. Sou apaixonado pelo mercado de
-          programação, pois acredito que as soluções tecnológicas avançadas
-          podem nos proporcionar uma melhor qualidade de vida e simplificar
-          tarefas diárias que antes exigiam muito tempo e esforço. Tenho grande
-          interesse em trabalhar com tecnologia e contribuir para a criação de
-          projetos inovadores e impactantes.
+          Graduando em Gestão da Tecnologia da Informação na Estácio de Sá.
+          Minha trajetória é marcada pela paixão e dedicação ao
+          dinâmico universo da programação. Acredito fervorosamente no poder
+          transformador das soluções tecnológicas avançadas. Enxergo a
+          tecnlogia como uma aliada fundamental para proporcionar não apenas
+          inovação, mas uma significativa melhoria na qualidade de vida. Estou
+          pronto para contribuir efetivamente para o desenvolvimento de soluções
+          que transcenderão as expectativas do mercado, colocando-me à
+          disposição para explorar novos horizontes e desafios na área
+          tecnológica.
         </div>
       </div>
     </ContentDiv>
