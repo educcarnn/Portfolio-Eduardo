@@ -20,7 +20,7 @@ function SobreMim() {
 
         <div className="TextIntroduct">DESENVOLVEDOR</div>
         <div>
-          <p>Full Stack (Js, Java, PHP/Laravel, Python) </p>
+          <p>Full Stack (NodeJs, Java, PHP/Laravel, Python) </p>
         </div>
       </div>
       <div class="aboutToMe">

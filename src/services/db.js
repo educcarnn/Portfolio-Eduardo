@@ -63,7 +63,7 @@ const projectos = [
     name: "UniSocial - Full Stack Laravel com React",
     description:
       "Rede Social com rolagem infinita, podendo upar imagens, deletar ou editar seus comentários",
-    stack: ["Laravel/PHP", "React", "Boostrap", "MySQL", "API Rest", "Yarn"],
+    stack: ["Laravel/PHP", "React", "Bootstrap", "MySQL", "API Rest", "Yarn"],
     sourceCode: "https://github.com/educcarnn/UniSocial",
   },
 ];
