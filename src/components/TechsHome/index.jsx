@@ -7,7 +7,9 @@ import {
   SiTypescript,
   SiNextdotjs, 
   SiPython,
-  SiPhp
+  SiPhp, 
+  SiJava,
+  SiSpring,
 } from "react-icons/si";
 import { IoLogoNodejs } from "react-icons/io";
 
@@ -29,6 +31,8 @@ function TechsHome() {
         <IoLogoNodejs className="icons" title="Node.js" />
         <SiPython className="icons" title="Python" />
         <SiPhp className="icons" title="PHP" />
+        <SiJava className="icons" title="Java" />
+        <SiSpring className="icons" title="SpringBoot" />
       </div>
       <a href={Curriculo} target="blank" download>
         <button className="ButtonPdf">Currículo(PDF)</button>
